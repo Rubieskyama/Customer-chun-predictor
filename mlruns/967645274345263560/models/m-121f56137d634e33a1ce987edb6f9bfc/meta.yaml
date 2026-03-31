@@ -1,0 +1,10 @@
+artifact_location: file:///C:\Users\Admin\Desktop\Customer-chun-predictor/mlruns/967645274345263560/models/m-121f56137d634e33a1ce987edb6f9bfc/artifacts
+creation_timestamp: 1774972898204
+experiment_id: '967645274345263560'
+last_updated_timestamp: 1774972906184
+model_id: m-121f56137d634e33a1ce987edb6f9bfc
+model_type: null
+name: model
+source_run_id: d400af179849482ba6d2b7a88871d86b
+status: 2
+status_message: null

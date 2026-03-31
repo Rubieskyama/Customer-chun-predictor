@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\Admin\Desktop\Customer-chun-predictor/mlruns/967645274345263560/934ad4c04682482e8a702397bff83f38/artifacts
+end_time: 1774969928520
+entry_point_name: ''
+experiment_id: '967645274345263560'
+lifecycle_stage: active
+run_id: 934ad4c04682482e8a702397bff83f38
+run_name: salty-shark-857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774969928366
+status: 4
+tags: []
+user_id: RUBIES

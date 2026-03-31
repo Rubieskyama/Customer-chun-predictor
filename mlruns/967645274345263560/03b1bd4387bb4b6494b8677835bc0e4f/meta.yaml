@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\Admin\Desktop\Customer-chun-predictor/mlruns/967645274345263560/03b1bd4387bb4b6494b8677835bc0e4f/artifacts
+end_time: 1774973027893
+entry_point_name: ''
+experiment_id: '967645274345263560'
+lifecycle_stage: active
+run_id: 03b1bd4387bb4b6494b8677835bc0e4f
+run_name: kindly-croc-165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774973019086
+status: 3
+tags: []
+user_id: RUBIES

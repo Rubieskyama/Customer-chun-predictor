@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\Admin\Desktop\Customer-chun-predictor/mlruns/967645274345263560/d273e07134f44073844487f3464dfd71/artifacts
+end_time: 1774970256274
+entry_point_name: ''
+experiment_id: '967645274345263560'
+lifecycle_stage: active
+run_id: d273e07134f44073844487f3464dfd71
+run_name: bright-smelt-127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774970256132
+status: 4
+tags: []
+user_id: RUBIES

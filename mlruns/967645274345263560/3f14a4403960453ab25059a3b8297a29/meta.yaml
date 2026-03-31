@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\Admin\Desktop\Customer-chun-predictor/mlruns/967645274345263560/3f14a4403960453ab25059a3b8297a29/artifacts
+end_time: 1774971519560
+entry_point_name: ''
+experiment_id: '967645274345263560'
+lifecycle_stage: active
+run_id: 3f14a4403960453ab25059a3b8297a29
+run_name: wise-grub-748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774971507431
+status: 3
+tags: []
+user_id: RUBIES

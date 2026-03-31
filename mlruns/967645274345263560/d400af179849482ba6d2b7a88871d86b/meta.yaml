@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\Admin\Desktop\Customer-chun-predictor/mlruns/967645274345263560/d400af179849482ba6d2b7a88871d86b/artifacts
+end_time: 1774972906224
+entry_point_name: ''
+experiment_id: '967645274345263560'
+lifecycle_stage: active
+run_id: d400af179849482ba6d2b7a88871d86b
+run_name: sincere-mule-519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774972829118
+status: 3
+tags: []
+user_id: RUBIES

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\Admin\Desktop\Customer-chun-predictor/mlruns/967645274345263560/3f2fd637af02454596c2b9e9d10a103a/artifacts
+end_time: 1774969265470
+entry_point_name: ''
+experiment_id: '967645274345263560'
+lifecycle_stage: active
+run_id: 3f2fd637af02454596c2b9e9d10a103a
+run_name: bedecked-quail-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774969265362
+status: 4
+tags: []
+user_id: RUBIES

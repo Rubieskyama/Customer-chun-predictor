@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\Admin\Desktop\Customer-chun-predictor/mlruns/967645274345263560/3eb44cd142604b0280d607241afbc1e2/artifacts
+end_time: 1774971082801
+entry_point_name: ''
+experiment_id: '967645274345263560'
+lifecycle_stage: active
+run_id: 3eb44cd142604b0280d607241afbc1e2
+run_name: abrasive-carp-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774971082413
+status: 4
+tags: []
+user_id: RUBIES

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\Admin\Desktop\Customer-chun-predictor/mlruns/967645274345263560/65dad11fe098460db48f998d319629db/artifacts
+end_time: 1774971757672
+entry_point_name: ''
+experiment_id: '967645274345263560'
+lifecycle_stage: active
+run_id: 65dad11fe098460db48f998d319629db
+run_name: righteous-dog-779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774971748757
+status: 3
+tags: []
+user_id: RUBIES

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\Admin\Desktop\Customer-chun-predictor/mlruns/967645274345263560/796eb1cb034e4a189eea2a4f3cbb9a46/artifacts
+end_time: 1774969064533
+entry_point_name: ''
+experiment_id: '967645274345263560'
+lifecycle_stage: active
+run_id: 796eb1cb034e4a189eea2a4f3cbb9a46
+run_name: zealous-gnat-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774969064422
+status: 4
+tags: []
+user_id: RUBIES

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\Admin\Desktop\Customer-chun-predictor/mlruns/967645274345263560/eceae4b55b254f75b27f740d7446c753/artifacts
+end_time: 1774970444446
+entry_point_name: ''
+experiment_id: '967645274345263560'
+lifecycle_stage: active
+run_id: eceae4b55b254f75b27f740d7446c753
+run_name: beautiful-finch-40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774970444283
+status: 4
+tags: []
+user_id: RUBIES
