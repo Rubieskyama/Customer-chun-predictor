@@ -1,0 +1,14 @@
+artifact_uri: file:///c:\Users\Admin\Desktop\Customer-chun-predictor/mlruns/734111135399073165/6be8a64a3e584e0799141cc9e9959f8d/artifacts
+end_time: 1774961176898
+entry_point_name: ''
+experiment_id: '734111135399073165'
+lifecycle_stage: active
+run_id: 6be8a64a3e584e0799141cc9e9959f8d
+run_name: gaudy-deer-726
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774961162518
+status: 3
+tags: []
+user_id: RUBIES

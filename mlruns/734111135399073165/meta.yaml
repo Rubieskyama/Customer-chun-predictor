@@ -1,0 +1,7 @@
+artifact_location: file:///c:\Users\Admin\Desktop\Customer-chun-predictor/mlruns/734111135399073165
+creation_time: 1774961161347
+experiment_id: '734111135399073165'
+last_update_time: 1774961161347
+lifecycle_stage: active
+name: Telco Churn - XGBoost
+workspace: default
